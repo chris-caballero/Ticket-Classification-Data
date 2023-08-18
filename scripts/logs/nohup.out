@@ -1,0 +1,61 @@
+Epoch 0 Complete
+- Loss: 0.3066491186618805
+Epoch 1 Complete
+- Loss: 0.36793020367622375
+Epoch 2 Complete
+- Loss: 0.30579808354377747
+Epoch 3 Complete
+- Loss: 0.1105717271566391
+Epoch 4 Complete
+- Loss: 0.12554417550563812
+Fold 1 Accuracy: 0.8775800711743772
+Epoch 0 Complete
+- Loss: 0.5080729126930237
+Epoch 1 Complete
+- Loss: 0.32812514901161194
+Epoch 2 Complete
+- Loss: 0.4068840444087982
+--------------------------------------------------
+TRANSFORMER
+--------------------------------------------------
+Accuracy: 0.6248101746393319
+Epoch 3 Complete
+- Loss: 0.17821335792541504
+Epoch 4 Complete
+- Loss: 0.21927613019943237
+Fold 2 Accuracy: 0.8771055753262159
+Epoch 0 Complete
+- Loss: 0.4399475157260895
+Epoch 1 Complete
+- Loss: 0.20075303316116333
+Epoch 2 Complete
+- Loss: 0.2993963062763214
+Epoch 3 Complete
+- Loss: 0.17660418152809143
+Epoch 4 Complete
+- Loss: 0.11363769322633743
+Fold 3 Accuracy: 0.8678215472235405
+Epoch 0 Complete
+- Loss: 0.5595309138298035
+Epoch 1 Complete
+- Loss: 0.5182384252548218
+Epoch 2 Complete
+- Loss: 0.04881344735622406
+Epoch 3 Complete
+- Loss: 0.37344714999198914
+Epoch 4 Complete
+- Loss: 0.3905368447303772
+Fold 4 Accuracy: 0.8770764119601329
+Epoch 0 Complete
+- Loss: 0.23383483290672302
+Epoch 1 Complete
+- Loss: 0.5269234776496887
+Epoch 2 Complete
+- Loss: 0.36091041564941406
+Epoch 3 Complete
+- Loss: 0.3354622423648834
+Epoch 4 Complete
+- Loss: 0.20642806589603424
+Fold 5 Accuracy: 0.8818224964404366
+Transformer Scores: [0.8775800711743772, 0.8771055753262159, 0.8678215472235405, 0.8770764119601329, 0.8818224964404366]
+Transformer 10-Fold Cross Validation: 0.8762812204249407

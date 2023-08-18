@@ -1,0 +1,9 @@
+2023-08-16 10:18:11,048 - INFO - Device: cuda
+2023-08-16 10:18:11,049 - INFO - Loading Tickets Dataset
+2023-08-16 10:18:12,228 - INFO - Done!
+2023-08-16 10:18:12,228 - INFO - Creating Models
+2023-08-16 10:18:13,157 - INFO - Done!
+2023-08-16 10:18:13,157 - INFO - Training and Evaluating Models
+2023-08-16 10:20:05,539 - INFO - Done!
+2023-08-16 10:20:05,540 - INFO - Saving Models
+2023-08-16 10:20:05,676 - INFO - Done!
