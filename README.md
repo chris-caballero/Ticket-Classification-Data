@@ -5,9 +5,10 @@
 * Dataset:
   * TicketDataset is the class I used to transform the data in the dataset object into the correct format for the dataloader object. This also works as a generator which increases overall efficiency.
   * For more information, you can see the code in the **utils** folder under **data.py**.
-    `<br>`
 
-<img src="visualizations/top-words.png" alt="top 10 words" title="top 10 words by frequency" width="700" height="300">
+<p align="center">
+ <img src="visualizations/top-words.png" alt="top 10 words" title="top 10 words by frequency" width="700" height="300">
+</p>
 
 * Models:
   * **EncoderTransformer** is my implementation of a transformer ticket classifier.
@@ -16,11 +17,11 @@
   * The first two models are the main focus of the project, the Bert model was just out of interest to see how a much larger pre-trained language model did when finetuned on this task.
     `<br>`
 
-<div>
+<p align="center">
  <img src="visualizations/models/imgs/model-3.png" alt="encoder transformer" title="encoder architecture" width="250" height="500">
  <img src="visualizations/models/imgs/model-1.png" alt="cnn" title="cnn architecture" width="300" height="500">
- <img src="visualizations/models/imgs/model-2.png" alt="bert classifier" title="bert classifier architecture" width="150" height="500">
-</div>
+ <img src="visualizations/models/imgs/model-2.png" alt="bert classifier" title="bert classifier architecture" width="200" height="500">
+</p>
 
 ## Contents
 
