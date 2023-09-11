@@ -10,6 +10,11 @@
  <img src="visualizations/top-words.png" alt="top 10 words" title="top 10 words by frequency" width="700" height="300">
 </p>
 
+* Visualize Topical Frequency via Circle Packing!
+<p align="center">
+ <img src="visualizations/circle-pack.png" alt="top 10 words" title="Circle Packing" width="700" height="500">
+</p>
+
 * Models:
   * **EncoderTransformer** is my implementation of a transformer ticket classifier.
   * **ConvNet** is my approximation of the neural network described in the paper: *Hyperparameter Black-Box Optimization to Improve the Automatic Classification of Support Tickets*, which I am trying to improve upon with my EncoderTranformer.
