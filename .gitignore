@@ -1,3 +1,6 @@
 ticketenv/
 trained_models/
 scripts/deprecated/
+data/*.json
+data/*.zip
+edaenv/
